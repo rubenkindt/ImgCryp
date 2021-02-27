@@ -1,2 +1,7 @@
 #pycharm folders
 /.idea
+
+#test images
+*.png
+*.jpg
+*.jpeg
