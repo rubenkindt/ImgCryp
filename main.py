@@ -1,6 +1,3 @@
-def encr(path):
-    f=open(path,'r')
-    
 
 
 
