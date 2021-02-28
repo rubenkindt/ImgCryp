@@ -9,8 +9,9 @@
 #test files
 *test*
 
-#temp
+#temp files and dir
 *temp
 *tmp
 temp/
 temp/*
+encData.txt
