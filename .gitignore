@@ -5,3 +5,12 @@
 *.png
 *.jpg
 *.jpeg
+
+#test files
+*test*
+
+#temp
+*temp
+*tmp
+temp/
+temp/*
